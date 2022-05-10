@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+# ceci est deuxieme commentaire branche_1
+=======
+<<<<<<< HEAD
 # ceci est commentaire branche_2
 # autre commentaire branche_2
 =======
 # ceci est commentaire branche_1
+>>>>>>> main
 >>>>>>> main
